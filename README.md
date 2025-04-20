@@ -13,4 +13,5 @@ This lab demonstrates how to host a static website using **Amazon S3**. It's par
 - *(Optional)* `error.html` – a custom error page for broken links or missing content
 
 ## 🌐 Live Site Example
-Once deployed, the site is accessible at the S3 endpoint
+The site is hosted here:  
+[Click to view live](http://your-bucket-name.s3-website-region.amazonaws.com)
