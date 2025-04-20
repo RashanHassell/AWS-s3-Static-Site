@@ -14,4 +14,4 @@ This lab demonstrates how to host a static website using **Amazon S3**. It's par
 
 ## 🌐 Live Site Example
 The site is hosted here:  
-[Click to view live](http://your-bucket-name.s3-website-region.amazonaws.com)
+http://my-static-site-lab.s3-website.us-east-2.amazonaws.com/
