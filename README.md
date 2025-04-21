@@ -10,7 +10,6 @@ This lab demonstrates how to host a static website using **Amazon S3**. It's par
 
 ## 🧪 Files Included
 - `index.html` – the main landing page of the website
-- *(Optional)* `error.html` – a custom error page for broken links or missing content
 
 ## 🌐 Live Site Example
 The site is hosted here:  
